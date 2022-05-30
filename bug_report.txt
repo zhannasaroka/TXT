@@ -1,1 +1,12 @@
-
+Summary: The product is not added to the cart when clicking on the add button
+Project: Shop.by
+Severiry: critical
+Priority : high
+Status: open
+Author: Zhanna Saroka
+Descroptions: 
+Pre-conditions: Product page is open.
+STR: Сlick on the button "add to cart".
+AR: The product is not added to the cart.
+ER: The selected product appears in the cart.
+Attachments: 
